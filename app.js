@@ -5,7 +5,7 @@ const CONTRACT_ADDRESS = "0x3985A9008989E6348Aa8f18115391953357e4bC1";
 const PROJECT_ID = "fe55ea601c3e7e0925c0b33723d6b158";
 const READ_RPC = "https://ethereum.publicnode.com";
 const PRICE_ETH = "0.000032";
-const MAX_SUPPLY = 30000;
+const MAX_SUPPLY = 10000;
 
 const ABI = [
   "function mint(uint256 amount) external payable",
