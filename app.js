@@ -1,7 +1,7 @@
 import { ethers } from "https://esm.sh/ethers@6.13.4";
 import EthereumProvider from "https://esm.sh/@walletconnect/ethereum-provider@2.17.2";
 
-const CONTRACT_ADDRESS = "0x14c3b900d15765257C1e9416958D2CAA0396A491";
+const CONTRACT_ADDRESS = "0x3985A9008989E6348Aa8f18115391953357e4bC1";
 const PROJECT_ID = "fe55ea601c3e7e0925c0b33723d6b158";
 const READ_RPC = "https://ethereum.publicnode.com";
 const PRICE_ETH = "0.000032";
